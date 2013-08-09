@@ -1,6 +1,10 @@
 source 'https://rubygems.org'
 
 ruby '1.9.3'
+
+
+gem 'devise', '3.0.0.rc'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.0'
 
